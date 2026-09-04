@@ -216,7 +216,7 @@ The repository includes a `CITATION.cff` file so GitHub can provide a **Cite thi
 Suggested repository citation:
 
 ```text
-Arguero Tello, J. B. (2026).
+Arguero , Berenice. (2026).
 PON-QoT-ML-Dataset: Synthetic PON Traffic Dataset for Machine-Learning Traffic Classification.
 GitHub repository.
 https://github.com/BereniceArguero/PON-QoT-ML-Dataset
