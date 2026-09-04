@@ -18,7 +18,7 @@ You must give appropriate credit, provide a link to the license, and indicate if
 
 Suggested attribution:
 
-Johanna Berenice Arguero Tello, *PON-QoT-ML-Dataset: Synthetic PON Traffic Dataset for Machine-Learning Traffic Classification*, 2026.
+Berenice Arguero, *PON-QoT-ML-Dataset: Synthetic PON Traffic Dataset for Machine-Learning Traffic Classification*, 2026.
 
 ## Important notice
 
